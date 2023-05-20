@@ -1,6 +1,6 @@
 <h1 align="center">Aurora Web Labs</h1>
 <p align="center">
-  <img src="https://auroraweblabs.com/img/auroralogoround.png"/>
+  <img height="50" src="https://auroraweblabs.com/img/auroralogoround.png"/>
 </p>
 
 <h1 align="center">
@@ -36,9 +36,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-```
-  
----  
+ 
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">

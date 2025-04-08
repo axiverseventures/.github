@@ -1,8 +1,6 @@
-![Facebook Cover](https://github.com/user-attachments/assets/e490f46b-e675-4862-992d-11f161ce958e)
-
 <p align="center">
   <a href="https://auroraweblabs.com/" target="_blank">
-    <img src="https://auroraweblabs.com/assets/img/logo/logo.png" alt="Aurora Web Labs Logo" width="150">
+    ![Facebook Cover](https://github.com/user-attachments/assets/e490f46b-e675-4862-992d-11f161ce958e)
   </a>
 </p>
 

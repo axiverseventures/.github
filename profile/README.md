@@ -7,7 +7,7 @@
 
 **Why Choose Us?**
 
-<p align="center">
+<p align="start">
   We are a passionate web development and designing company dedicated to creating high-quality, user-friendly, and visually appealing websites and digital solutions.
   <a href="https://auroraweblabs.com/" target="_blank">Learn more about our services.</a>
 </p>

@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://auroraweblabs.com/" target="_blank">
-    ![Facebook Cover](https://github.com/user-attachments/assets/e490f46b-e675-4862-992d-11f161ce958e)
-  </a>
-</p>
+![Facebook Cover](https://github.com/user-attachments/assets/e490f46b-e675-4862-992d-11f161ce958e)
 
 <h1 align="center">Aurora Web Labs</h1>
 <h2 align="center">We Vibe Uniqueness! Design a website that's authentically yours. Our creative and usability experts are here to build your best web profile.</h2>

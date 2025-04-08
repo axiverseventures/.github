@@ -106,12 +106,6 @@
   <a href="https://adsense.google.com/start/" target="_blank"> 
     <img src="https://i.pinimg.com/736x/01/3c/67/013c675490fbfab9d04d9359466aa678.jpg" height="60"/> 
   </a> &nbsp;
-  <a href="https://play.google.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/512px-Google_Play_2022_icon.svg.png?20220726170516" height="60"/> 
-  </a> &nbsp;
-  <a href="https://play.google.com/console/about/" target="_blank"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDldXOoZe08ga-t2ULG3jK-ELkJqqO4GE5KVA5kOyhZw&s" height="60"/> 
-  </a> &nbsp;
 </p>
 
 

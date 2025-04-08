@@ -1,5 +1,5 @@
 <div align="center">
-  ![Facebook Cover](https://github.com/user-attachments/assets/e490f46b-e675-4862-992d-11f161ce958e)
+  <img src="https://auroraweblabs.com/assets/img/githubreadme.png">
 </div>
 
 <h1 align="center">Aurora Web Labs</h1>

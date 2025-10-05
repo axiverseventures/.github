@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://auroraweblabs.com/assets/img/githubreadme.png">
+  <img src="https://axiverse.in/assets/img/githubreadme.png">
 </div>
 
-<h1 align="center">Aurora Web Labs</h1>
-<h2 align="center">We Vibe Uniqueness! Design a website that's authentically yours. Our creative and usability experts are here to build your best web profile.</h2>
+<h1 align="center">Axiverse Ventures</h1>
+<h2 align="center">Crafting a universe of possibilities 🌌 We build, brand, and connect your business with its audience.</h2>
 
 **Why Choose Us?**
 
 <p align="start">
   We are a passionate web development and designing company dedicated to creating high-quality, user-friendly, and visually appealing websites and digital solutions.
-  <a href="https://auroraweblabs.com/" target="_blank">Learn more about our services.</a>
+  <a href="https://axiverse.in/" target="_blank">Learn more about our services.</a>
 </p>
 
 * **Experience:** Leveraging years of industry knowledge and a deep understanding of cutting-edge web technologies and trends to deliver high-quality, tailored websites.
@@ -113,17 +113,16 @@
 
 **Follow us on:**
 
-- [Facebook](https://www.facebook.com/auroraweblabs)
-- [Instagram](https://www.instagram.com/auroraweblabs/)
-- [LinkedIn](https://www.linkedin.com/company/auroraweblabs/)
-- [YouTube](https://www.youtube.com/@auroraweblabs)
-- [Threads.net](https://threads.net/auroraweblabs)
+- [Facebook](https://www.facebook.com/axiverseventures)
+- [Instagram](https://www.instagram.com/axiverseventures/)
+- [LinkedIn](https://www.linkedin.com/company/axiverseventures/)
+- [YouTube](https://www.youtube.com/@axiverseventures)
+- [Threads.net](https://threads.com/@axiverseventures)
+- [X (Formerly Twitter)](https://x.com/axiverse_in)
 
 <br>
 
 **Let's Connect:**
 
-* 🌐 Visit our website: [Aurora Web Labs](https://auroraweblabs.com/)
-* 📧 Get in touch for your project: [Contact Us](https://auroraweblabs.com/#ContactUs)
-
-
+* 🌐 Visit our website: [Axiverse Ventures](https://axiverse.in/)
+* 📧 Get in touch for your project: [Contact Us](https://axiverse.in/#ContactUs)
